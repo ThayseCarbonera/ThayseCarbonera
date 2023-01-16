@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&heigh=120&section=header"/>
 
-<img align="right" height="600em" src="https://raw.githubusercontent.com/gist/ThayseCarbonera/5f048038c6e9f2b5792df37c09a016b5/raw/86608cef36b4c49fd73c4057a31bef5aa1eeed15/githubcard.svg">
+<img align="right" height="700em" src="https://raw.githubusercontent.com/gist/ThayseCarbonera/5f048038c6e9f2b5792df37c09a016b5/raw/86608cef36b4c49fd73c4057a31bef5aa1eeed15/githubcard.svg">
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFB6C1&size=30&width=500&lines=Olá+me+chamo+Thayse+Carbonera;Tenho+18+anos;Seja+Bem-Vindo)](https://git.io/typing-svg)
 
