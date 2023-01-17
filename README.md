@@ -4,11 +4,15 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFB6C1&size=30&width=500&lines=Olá+me+chamo+Thayse+Carbonera;Tenho+18+anos;Seja+Bem-Vindo)](https://git.io/typing-svg)
 
+<br></br>
+
 <p>👩‍💻 Atualmente atuo como QA Tester e trabalho com automação de testes</p>
 <p>📚 Estou estudando React Native e automação de testes mobile</p>
 <p>📫 Contate-me no email carbonerathayse23@gmail.com</p>
 <p>🎓 Tecnólogo em Análise e Desenvolvimento de sistemas em andamento</p>
 <p>😄 Pronomes: ela/dela, ele/dele, elu/delu</p>
+
+<br></br>
 
 <!-- <h1>🎆 Estatísticas: </h1>
 <div align="left">
@@ -22,7 +26,6 @@
   <img height="300px" src="https://github-profile-trophy.vercel.app/?username=ThayseCarbonera&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<br></br>
 <br></br>
   
 
