@@ -25,8 +25,6 @@
 <p align="left">
   <img height="300px" src="https://github-profile-trophy.vercel.app/?username=ThayseCarbonera&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-<br></br>
   
 
 ##
