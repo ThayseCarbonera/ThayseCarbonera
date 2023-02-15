@@ -16,7 +16,12 @@
 <div align="left" width=30%>
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThayseCarbonera&show_icons=true&theme=dracula)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThayseCarbonera)](https://github.com/anuraghazra/ThayseCarbonera)
+
+</div>
+
+<div>
+
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThayseCarbonera&theme=dracula)](https://github.com/anuraghazra/ThayseCarbonera)
 
 </div>
 
