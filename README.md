@@ -14,13 +14,12 @@
 
 <br></br>
 
-<!-- <h1>🎆 Estatísticas: </h1>
+<h1>🎆 Estatísticas: </h1>
 <div align="left">
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThayseCarbonera&show_icons=true&count_private=true&theme=tokyonight" alt="Thayse Carbonera github stats" /> 
-  <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThayseCarbonera&layout=compact&theme=tokyonight" />
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThayseCarbonera&show_icons=true&theme=dracula)
 
-</div> -->
+</div>
 
 <p align="left">
   <img height="300px" src="https://github-profile-trophy.vercel.app/?username=ThayseCarbonera&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
