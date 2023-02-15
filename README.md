@@ -15,7 +15,7 @@
 <br></br>
 
 <h1>🎆 Estatísticas: </h1>
-<div align="left" width=50%>
+<div align="left" width=30%>
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThayseCarbonera&show_icons=true&theme=dracula)
 
