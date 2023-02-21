@@ -1,6 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&heigh=120&section=header"/>
 
+
+
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFB6C1&size=30&width=500&lines=Olá+me+chamo+Thayse+Carbonera;Tenho+18+anos;Seja+Bem-Vindo)](https://git.io/typing-svg)
+
+
 
 <br></br>
 
@@ -13,17 +17,17 @@
 <br></br>
 
 <h1>🎆 Estatísticas: </h1>
-<div align="left" width=30%>
+<!-- <div align="left" width=30%>
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThayseCarbonera&show_icons=true&theme=dracula)
 
-</div>
+</div> -->
 
-<div>
+<!-- <div>
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThayseCarbonera&theme=dracula)](https://github.com/anuraghazra/ThayseCarbonera)
 
-</div>
+</div> -->
 
 <p align="left">
   <img height="300px" src="https://github-profile-trophy.vercel.app/?username=ThayseCarbonera&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
