@@ -2,7 +2,7 @@
 
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFB6C1&size=30&width=500&lines=Olá+me+chamo+Thayse+Carbonera;Tenho+18+anos;Seja+Bem-Vindo)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFB6C1&size=30&width=500&lines=Olá+me+chamo+Thayse+Carbonera;Tenho+19+anos;Seja+Bem-Vindo)](https://git.io/typing-svg)
 
 
 
@@ -12,7 +12,6 @@
 <p>📚 Estou estudando React Native e automação de testes mobile</p>
 <p>📫 Contate-me no email carbonerathayse23@gmail.com</p>
 <p>🎓 Tecnólogo em Análise e Desenvolvimento de sistemas em andamento</p>
-<p>😄 Pronomes: ela/dela, ele/dele, elu/delu</p>
 
 <br></br>
 
